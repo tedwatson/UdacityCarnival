@@ -146,7 +146,7 @@ PlayerSettings:
     Android: com.Udacity.UdacityCarnival
     Standalone: com.Udacity.UdacityCarnival
     Tizen: com.udacity.p1
-    iOS: com.Udacity.UdacityCarnival
+    iOS: com.Udacity.UdacityCarnival.tedwatson
     tvOS: com.udacity.p1
   buildNumber:
     iOS: 0
